@@ -9,7 +9,7 @@
 
 .navbar h1 {
 	color: white;
-	font-size: 20px;
+	font-size: 25px;
 	margin-left: 20px;
 }
 
@@ -68,19 +68,3 @@
 	display: block;
 }
 
-
-.article_container {
-	display: inline;
-	margin-left: 20px;
-
-
-}
-
-
-.article {
-	font-size: 13px;
-	font-weight: bold;
-	color: honeydew;
-	text-decoration: none;
-	align-self: flex-start;
-}
